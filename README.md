@@ -5,4 +5,4 @@
 ---
 ### Backend
 - [Nodejs란](https://github.com/ljm9894/study/blob/master/Backend/node/node.md)
-- [Nestjs란](https://github.com/ljm9894/study/tree/master/Backend/nest.md)
+- [Nestjs란](https://github.com/ljm9894/study/blob/master/Backend/nest/nest.md)
