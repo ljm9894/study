@@ -5,11 +5,17 @@
 
 ---
 
-### Backend
+## Backend
+
+### Framework
 
 - [Nodejs란](https://github.com/ljm9894/study/blob/master/Backend/node/node.md)
 - [Nestjs란](https://github.com/ljm9894/study/blob/master/Backend/nest/nest.md)
 
-### 자격증
+### Architecture
+
+- [MSA 아키텍처](https://github.com/ljm9894/study/blob/master/Backend/architecture/msa.md)
+
+## 자격증
 
 - [정보처리산업기사](https://github.com/ljm9894/study/blob/master/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EC%82%B0%EC%97%85%EA%B8%B0%EC%82%AC/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EC%82%B0%EC%97%85%EA%B8%B0%EC%82%AC.md)
