@@ -26,3 +26,7 @@
 ### CS(Computer Science)
 - [cs기초](https://github.com/ljm9894/study/blob/master/CS/cpu%20%EA%B8%B0%EC%B4%88.md)
 
+
+### Topcit
+#### 01소프트웨어 개발
+- [01](https://github.com/ljm9894/study/blob/master/Topcit/01%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EA%B0%9C%EB%B0%9C/01.md)
